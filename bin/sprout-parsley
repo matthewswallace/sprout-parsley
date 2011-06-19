@@ -1,0 +1,7 @@
+require 'rubygems'
+require 'sprout-parsley'
+
+sprout-parsley = Sprout-Parsley::Base.new
+sprout-parsley.parse! ARGV
+sprout-parsley.execute
+
