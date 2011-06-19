@@ -1,0 +1,56 @@
+# Project Sprouts Parsley Gem _Alpha_
+
+This RubyGem contains templates and libraries for developing [Parsley](http://www.spicefactory.org/) based MVCS DI applications in Actionscript 3.0 and Flex 4.0  
+
+>**WARNING** This is opinionated software. 
+This is not and will never be infinitely configurable. Care was taken to allow customization where needed, but it is made and tested to 	work the way I think it should. Please fork and add whatever features you feel are missing.
+
+## Description
+
+This bundle will contain generators for using the Parsley Framework
+
+* Project
+* Context
+* Config
+* SignalContext
+* Presentation Model
+* Model
+* Actions
+* Service
+
+
+## Prerequisites
+
+* [Ruby](http://www.ruby-lang.org/)
+* [rvm](http://rvm.beginrescueend.com/) < rvm will save you a ton of permissions headaches.
+* [Ruby Gems](http://rubygems.org/pages/download)
+* [git](http://git-scm.com/download)
+* [bundler](http://gembundler.com/) < gem install bundler
+* [Sprouts v1-pre](http://github.com/lukebayes/project-sprouts)
+
+## Install
+	
+TODO
+	
+## MIT License
+
+Copyright (c) 2011 Matthew Sloan Wallace
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
